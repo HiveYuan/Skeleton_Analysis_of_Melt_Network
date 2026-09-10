@@ -1,6 +1,6 @@
 # Skeleton-Based Analysis of Melt Networks
 
-This repository archives my CSE master's research project at Washington University in St. Louis. The project was conducted under the supervision of Professor Tao Ju in collaboration with Professor Philip Skemer, whose laboratory provided the three-dimensional microtomography data.
+This repository contains my CSE master's research project at Washington University in St. Louis. The project was conducted under the supervision of Professor Tao Ju in collaboration with Professor Philip Skemer, whose laboratory provided the three-dimensional microtomography data.
 
 ## Research question
 
@@ -16,18 +16,18 @@ The pipeline:
 
 ## Technical report
 
-- [Read the revised technical report](technical_report/Yuan_Liu_SBAMN_Master_Research_Technical_Report.pdf)
+- [Read the technical report](technical_report/Yuan_Liu_SBAMN_Master_Research_Technical_Report.pdf)
 - [View the LaTeX source](technical_report/report.tex)
 
-The project was completed in December 2022. The report was revised in September 2026 for clarity and archival presentation. It is a master's research technical report, not a peer-reviewed publication; the revision preserves the original method and results while stating the evaluation limitations more explicitly.
+The project was completed in December 2022.
 
 ## Repository contents
 
 - `skeleton_analysis.nb`: core Mathematica implementation and experiments for junction extraction, merging, and coordination-number analysis.
 - `melt_network.nb`: melt-network visualization and inspection notebook.
 - `draft.nb`: development notebook containing exploratory experiments.
-- `data/`: the archived Scoba 12 data and intermediate project material.
-- `technical_report/`: revised PDF, LaTeX source, bibliography, and figures.
+- `data/`: the Scoba 12 data and intermediate project material.
+- `technical_report/`: PDF, LaTeX source, bibliography, and figures.
 
 ## Results and limitations
 
